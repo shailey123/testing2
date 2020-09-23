@@ -22,13 +22,13 @@ title: My Jekyll Test
 email: shaileydash@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Testing jekyll hopefully, fingers crossed!
-baseurl: "/testing2" #  the subpath of your site, e.g. /blog
+baseurl: "/testing2" #   the subpath of your site, e.g. /blog
 url: "https://shailey123.github.io" #  the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  shailey123
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
